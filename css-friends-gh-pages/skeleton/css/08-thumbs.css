@@ -1,0 +1,24 @@
+/* PHASE 8: Thumbs */
+.thumb{
+  display: block;
+  position: relative;
+  width: 58px;
+  height: 58px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin: auto;
+  left: 15px;
+  top: -5px;
+}
+
+.profile-friends > li {
+  float: left;
+  margin: 5px
+
+
+}
+
+
+/*.profile-friends:nth-child(3n){
+  float: left;
+}*/

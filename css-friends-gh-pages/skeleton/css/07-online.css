@@ -1,0 +1,13 @@
+/* PHASE 7: Online */
+
+.online{
+  position:absolute;
+  transform: rotate(0.875turn);
+  font-family: "Roboto";
+  right: 145px;
+  top: 13px;
+  border:groove 0.5em purple;
+    border-radius: 40px 10px;
+  background:#00a;
+  color: #32cd32
+}

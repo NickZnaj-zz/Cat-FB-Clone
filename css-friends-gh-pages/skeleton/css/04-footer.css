@@ -1,0 +1,45 @@
+/* PHASE 4: Footer */
+.footer {
+  font-family: 'Roboto', sans-serif;
+  display: block;
+  font-weight: 400;
+  font-size: 14px
+}
+
+.footer-nav {
+  margin: auto;
+  width: 900px;
+  /*height: 56px;*/
+  color: #aaa;
+  background: white;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.footer-list {
+  padding: 20px;
+  float: right;
+}
+
+.footer-list > li {
+  padding-left: 20px;
+  float: left;
+}
+
+.footer-list > li:hover {
+  color: black;
+}
+
+.footer-copyright {
+  padding: 20px;
+  float: left
+}
+
+.group:after {
+  content: "";
+  display: block;
+  clear: both;
+}
